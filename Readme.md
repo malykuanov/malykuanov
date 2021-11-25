@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/VjSYhqw/logo-github.png" />
+<img src="https://i.ibb.co/qgNh5cx/logo-github.png" />
 
 # Hi, I`m Mikle <img src="https://raw.githubusercontent.com/malykuanov/malykuanov/main/Hi.gif" width="50px" height="50px"/>
 
