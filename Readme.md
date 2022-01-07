@@ -31,3 +31,7 @@ Enthusiastic focused and motivated Junior Developer. I`m from Russia, living in 
 <a href="https://github.com/malykuanov/shortcut-url">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malykuanov&repo=shortcut-url&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/malykuanov/dating-tgbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=malykuanov&repo=dating-tgbot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
