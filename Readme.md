@@ -1,9 +1,3 @@
-<img src="https://i.ibb.co/Ht0vLHV/logo-github.png" />
-
-# Hi, I`m Mikle <img src="https://raw.githubusercontent.com/malykuanov/malykuanov/main/Hi.gif" width="50px" height="50px"/>
-
-Enthusiastic focused and motivated Junior Developer. I`m from Russia, living in Moscow. One of my objectives is to keep updated with the latest IT trends and technologies. I strive to improve my skills and knowledge and grow as a professional software developer.
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
